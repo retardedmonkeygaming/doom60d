@@ -1,5 +1,7 @@
 build/
-doom.mo
-module/source-backups/
-module/known-good/
-module/wad/
+*.o
+*.mo
+*.d
+*.bin
+*.tar.gz
+source-backups/
